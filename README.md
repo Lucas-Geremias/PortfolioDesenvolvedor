@@ -1,5 +1,5 @@
 # PortfolioDesenvolvedor
-Modelo de portfólio feito com HTML5, CSS3, JAVASCRIPT
+Modelo de portfólio Para desenvolvedores feito com HTML5, CSS3, JAVASCRIPT
 
 
 ## Tarefas
